@@ -1,0 +1,9 @@
+import Text.Foundation;
+
+public class next {
+    public static void main(String[] args) {
+        Foundation obj=new Foundation();
+        obj.var4=2;
+    }
+}
+
